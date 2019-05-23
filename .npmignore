@@ -1,5 +1,4 @@
 src
 demo
-node_modules
 .babelrc
 webpack.config.js
